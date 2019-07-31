@@ -63,7 +63,7 @@ def func1(W):
 
 
 
-result = gradient_descent(func1,net.W,lr=0.02,step_num=10000)
+result = gradient_descent(func1,net.W,lr=0.02,step_num=1000)
 print(result)
 
 
