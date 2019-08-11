@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87912e03-9395-4f11-ba71-12301cb99b60" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/part4/part4.py" beforeDir="false" afterPath="$PROJECT_DIR$/part4/part4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part5/part5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,7 +26,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="part4.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="part4.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/part4/part4.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
@@ -33,6 +34,15 @@
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="part5.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/part5/part5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
             </state>
           </provider>
         </entry>
@@ -63,6 +73,7 @@
       <list>
         <option value="$PROJECT_DIR$/part1/part1.py" />
         <option value="$PROJECT_DIR$/part4/part4.py" />
+        <option value="$PROJECT_DIR$/part5/part5.py" />
       </list>
     </option>
   </component>
@@ -91,6 +102,11 @@
               <item name="PythonAI" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonAI" type="462c0819:PsiDirectoryNode" />
               <item name="part4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonAI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonAI" type="462c0819:PsiDirectoryNode" />
+              <item name="part5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -128,6 +144,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -187,6 +204,13 @@
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/part5/part5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
         </state>
       </provider>
     </entry>
