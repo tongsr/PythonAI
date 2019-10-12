@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87912e03-9395-4f11-ba71-12301cb99b60" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part1/part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/part1/part1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tensorTest/tensorTest1.py" beforeDir="false" afterPath="$PROJECT_DIR$/tensorTest/tensorTest1.py" afterDir="false" />
-    </list>
+    <list default="true" id="87912e03-9395-4f11-ba71-12301cb99b60" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +27,11 @@
       </file>
       <file leaf-file-name="batch_norm_test.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ch06/batch_norm_test.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-586">
+              <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="overfit_dropout.py" pinned="false" current-in-tab="false">
@@ -110,27 +108,17 @@
             <path>
               <item name="PythonAI" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonAI" type="462c0819:PsiDirectoryNode" />
-              <item name="ch03" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonAI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonAI" type="462c0819:PsiDirectoryNode" />
-              <item name="ch04" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonAI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonAI" type="462c0819:PsiDirectoryNode" />
-              <item name="ch05" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonAI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonAI" type="462c0819:PsiDirectoryNode" />
               <item name="ch06" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PythonAI" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonAI" type="462c0819:PsiDirectoryNode" />
-              <item name="ch07" type="462c0819:PsiDirectoryNode" />
+              <item name="ch08" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonAI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonAI" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PythonAI" type="b2602c69:ProjectViewProjectNode" />
@@ -183,7 +171,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="-198" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16535018" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -431,7 +418,11 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/ch06/batch_norm_test.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-586">
+          <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
